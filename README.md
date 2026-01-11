@@ -122,6 +122,11 @@ The Document Forgery Detection System using CNN demonstrates how deep learning c
 With further enhancements and larger datasets, this project can evolve into a powerful tool for academic, professional, and organizational document validation.
 
 ## OUTPUT:
-<img width="1902" height="728" alt="Image" src="https://github.com/user-attachments/assets/2ebd37d6-8a72-49d4-be85-1550ee4b7623" />
-<img width="1835" height="802" alt="Image" src="https://github.com/user-attachments/assets/682c9fe2-968e-4e8e-aabb-6fbd3fa6e987" />
+<img width="1851" height="805" alt="Image" src="https://github.com/user-attachments/assets/4c53f9a3-98da-42b4-96c2-fe2d9a2ea3b2" />
+
+<img width="1750" height="773" alt="Image" src="https://github.com/user-attachments/assets/ba92e07e-fcfb-4941-8b42-20d082bf281b" />
+
+<img width="1837" height="810" alt="Image" src="https://github.com/user-attachments/assets/3968a76e-c43b-47d8-ad6a-73c71f4505ee" />
+
+<img width="557" height="551" alt="Image" src="https://github.com/user-attachments/assets/b1bfc108-c945-4bb8-b44e-862f320da79e" />
 
